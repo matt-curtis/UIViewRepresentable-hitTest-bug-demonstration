@@ -2,7 +2,7 @@
 
 Demonstrates how SwiftUI ignores UIKit's hit-testing methods by creating a UIView that has isUserInteractionEnabled set to false. The UIViewRepresentable still blocks touches to the SwiftUI content below it.
 
-Filed as Apple's bug tracker as FB9818366. [OpenRadar](https://openradar.appspot.com/radar?id=5006201888702464).
+Filed as Apple's bug tracker as FB9818366. [OpenRadar](https://openradar.appspot.com/radar?id=5006201888702464). [Twitter thread of me complaining about this problem.](https://twitter.com/mattxcurtis/status/1473543903232118787)
 
 # Context
 
